@@ -1,0 +1,3 @@
+-r requirements.txt
+mage-ai
+snowflake-connector-python
